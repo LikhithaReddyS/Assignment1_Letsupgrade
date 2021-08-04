@@ -1,0 +1,24 @@
+1.
+<script>
+
+let arr=["Apple","Mango","Pineapple","Watermelon","Banana"];
+for(let i=arr.length-1;i>=0;i--)
+{
+	  document.write(arr[i],end=",");
+}
+</script>
+
+2.
+<script>
+for(let i=0;i<=50;i++)
+{
+	if (i%5==0)
+    {
+    	document.write(i,end=" , ");
+    }
+}
+</script>
+<!-- edit your html here -->
+
+
+
